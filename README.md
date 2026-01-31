@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Anne Goldriver, Ph.D.
+**Columbia University | Computer Science & AI Research**
+
+## 🎓 Education & Research
+* **Ph.D. in Music | Seoul National University (DMA)**
+* **B.A. Computer Science | Columbia University**
+
+## 🔬 Featured Projects
+* **[Acoustic-Digital Research](https://github.com/annegoldriver/portfolio/tree/main/others/covid19music)**: Doctoral-level analysis of structural acoustics.
+* **[Predictive Modeling](https://github.com/annegoldriver/machine_learning)**: Machine learning and regression analysis.
+* **[AI Conversational Logic](https://github.com/annegoldriver/portfolio/tree/main/mobile/therapistbot)**: NLP dialogue modeling and logical flow.
